@@ -2,7 +2,7 @@
 
 This is a project for dev and try on Arduino Mega.
 
-# mozziDrumSeq
+# Library
 
 Mozzi (HiFi Mode) (https://github.com/sensorium/Mozzi)
 
